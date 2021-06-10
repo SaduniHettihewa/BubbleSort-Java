@@ -3,7 +3,6 @@ package bubblesort;
 
 public class BubbleSort {
 
-   
     public static void main(String[] args) {
          int arr[] ={2,15,6,2,3,1,21,54};  
                  
@@ -22,6 +21,7 @@ public class BubbleSort {
         
     }
     
+
     static void BubbleSort(int[] arr) {  
         int n = arr.length;  
         int temp = 0;  
